@@ -1,8 +1,3 @@
----
-name: "Valormill Firmware Pull Request Template"
-about: "A standardized PR template implementing Valormill code review and checklist processes. Implements SOPXX.XX"
----
-
 # Valormill Firmware Pull Request
 
 ## Resolved Issues
